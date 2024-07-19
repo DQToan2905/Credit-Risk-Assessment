@@ -1,4 +1,4 @@
 # Credit-Risk-Assessment
-  # Introdution 
+  Introdution 
   This project builds a machine learning model to assess user credit risk.
   #Table of contents
