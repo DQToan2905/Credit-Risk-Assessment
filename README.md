@@ -1,5 +1,5 @@
 # Credit-Risk-Assessment
-This project make me a champion of The Data Analytics Competition 2024, organized by Ho Chi Minh university of Banking.
+This project make my team a champion of The Data Analytics Competition 2024, organized by Ho Chi Minh university of Banking.
 ## Topic
 
 This project builds a machine learning model to assess user credit risk.
