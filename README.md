@@ -1,5 +1,5 @@
 # Credit-Risk-Assessment
-
+This project make me a champion of The Data Analytics Competition 2024, organized by Ho Chi Minh university of Banking.
 ## Topic
 
 This project builds a machine learning model to assess user credit risk.
@@ -113,7 +113,7 @@ This project, we use internal bank data and data from the Credit Information Cen
 * Model Building
 * Evaluating
 
-## Consulution
+## Consulutionsss
 
 1. In this project, we use XGBoost to perform customer risk classification.The results are as follows: Accuracy: 0.954, F1-Score: 0.954, AUC: 0.969
 2. Additionally, we introduce an approach to effectively build and tackle a classification problem.
