@@ -1,4 +1,4 @@
-# Credit-Risk-Assessment
+# Credit Risk Assessment
 This project make my team a champion of The Data Analytics Competition 2024, organized by Ho Chi Minh university of Banking.
 ## Topic
 
