@@ -108,10 +108,10 @@ This project, we use internal bank data and data from the Credit Information Cen
 ## Table of contents
 
 * Data Loading
-* EDA (Exploratory Data Analysis)
+* Exploratory Data Analysis (EDA)
 * Feature Engineering
 * Model Building
-* Evaluating
+* Evaluation
 
 ## Conclusion
 
